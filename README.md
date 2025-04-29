@@ -16,7 +16,8 @@
 ## Usage
 
 >Open your designated streaming site (Spotify / Netflix / Hotstar / Disney+ / Amazon Prime Video / Max / Tidal              
->You will receive a confirmation dialog to open the link in Microsoft Edge (this is a 1-time only confirmation)
->Press "Open Link" and your streaming site will open in Microsoft Edge. After a short delay of 3 seconds, the original tab will close.          
-> DONE!! From now on, anytime you open one of the designated streaming sites in Floorp/Zen Browser, the link will be redirected to open in MS Edge and your initial tab will be closed shortly after.
+>You will receive a confirmation dialog to open the link in Microsoft Edge (this is a one-time only confirmation)
+>Press "Open Link" and your streaming site will open in Microsoft Edge.
+>After a short delay of 3 seconds, the original tab will close.          
+>From now on, anytime you open one of the designated streaming sites in Floorp/Zen Browser, the link will be redirected to open in MS Edge and your initial tab will be closed shortly after.
            
