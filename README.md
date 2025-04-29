@@ -13,7 +13,7 @@
 >Run the CRX Installer extension > Install manually from file > Choose the "redirect-to-edge.zip" you just downloaded from the latest github release and press on "Continue to installation"                      
 >The extension should now be installed and ready to use.
 
->## Usage
+## Usage
 
 >Open your designated streaming site (Spotify / Netflix / Hotstar / Disney+ / Amazon Prime Video / Max / Tidal              
 >You will receive a confirmation dialog to open the link in Microsoft Edge (this is a 1-time only confirmation)
