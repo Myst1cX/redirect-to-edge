@@ -1,4 +1,7 @@
 # REDIRECT TO EDGE - STREAMING WORKAROUND FOR FLOORP/ZEN BROWSER
+
+![icon128](https://github.com/Myst1cX/redirect-to-edge/blob/main/icons/icon128.png)
+
 > A browser extension that redirects streaming sites with known playback issues in Floorp/Zen browser - Spotify, Netflix, Hotstar, Disney+, Amazon Prime Video, Max, and Tidal — to Microsoft Edge, then closes the original tab after a short delay.
 
 >Please note that this extension is being tested and developed on the Floorp browser.                                        
